@@ -170,8 +170,10 @@ button:hover{
 }
 
 .sidy-by-side{
+  display: flex;
+  align-items: inline ;
+  justify-content: space-between;
 }
-
 .description{
   flex: 1;
 }
