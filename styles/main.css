@@ -222,10 +222,7 @@ footer{
   }
 
   .row{
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
-    align-content: center;
   }
   .sidy-by-side{
     flex-direction: column;
