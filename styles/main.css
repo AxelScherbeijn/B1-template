@@ -125,7 +125,14 @@ article h2.open-forever{
 .emphasize{
   box-shadow: 1px 0px 5px #27AE60;
 }
-
+.inline{
+  display: flex;
+  align-items: inline;
+}
+.row{
+  display: flex;
+  align-items: inline;
+}
 .product{
   margin-right: 1em;
   padding: 1em;
@@ -194,6 +201,8 @@ footer{
 .hidden-on-sm{
   display: block;
 }
+
+
 
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
