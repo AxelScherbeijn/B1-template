@@ -135,7 +135,15 @@ article h2.open-forever{
 .product:last-of-type{
   margin-right: 0;
 }
+.product-info{
+  display: flex;
+  justify-content: flex-start;
+  align-items: inline;
+}
 
+.product-information span{
+  font-weight: bold;
+}
 .product span{
   display: block;
 }
